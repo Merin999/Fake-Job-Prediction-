@@ -1,0 +1,1 @@
+{'na': 0, "Bachelor's Degree": 1, "Master's Degree": 2, 'High School or equivalent': 3, 'Unspecified': 4, 'Some College Coursework Completed': 5, 'Vocational': 6, 'Certification': 7, 'Associate Degree': 8, 'Professional': 9, 'Doctorate': 10, 'Some High School Coursework': 11, 'Vocational - Degree': 12, 'Vocational - HS Diploma': 13}

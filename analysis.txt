@@ -1,0 +1,9 @@
+
+SVM output:real job
+Accuracy: 83.1543624161
+
+Random Forest output:real job
+Accuracy: 85.9770246085011
+
+Decision Tree output:real job
+Accuracy: 94.13817002237136

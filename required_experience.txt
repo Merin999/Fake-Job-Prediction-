@@ -1,0 +1,1 @@
+{'Internship': 0, 'Not Applicable': 1, 'na': 2, 'Mid-Senior level': 3, 'Associate': 4, 'Entry level': 5, 'Executive': 6, 'Director': 7}
